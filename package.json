@@ -1,0 +1,20 @@
+{
+  "name": "node-now",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "When you're in a Rush and you need a sane good minimal defaults for checking something with Node.js",
+  "packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74",
+  "devDependencies": {
+    "@biomejs/biome": "1.8.2",
+    "@types/node": "^20.14.7"
+  },
+  "dependencies": {
+    "benchmarkify": "^4.0.0"
+  }
+}
